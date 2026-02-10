@@ -17,8 +17,8 @@
 
 | Repo | What's in there |
 |------|----------------|
-| [personal-software](https://github.com/sasha-computer/personal-software) | Tools I actually use. Domain search, photo backups, running tracker |
-| [experiments](https://github.com/sasha-computer/experiments) | Quick tools and throwaway scripts |
+| [personal-software](https://github.com/sasha-computer/personal-software) | Tools I made for myself using [the shoggoth](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence) |
+| [experiments](https://github.com/sasha-computer/experiments) | Experiments go here. What else did you think? |
 | [2026](https://github.com/sasha-computer/2026) | zkVM debug tooling, AI agents, trip planners, spaced repetition |
 | [2025](https://github.com/sasha-computer/2025) | ZK in the browser, 3D puzzle games, neural nets from scratch |
 | [2024](https://github.com/sasha-computer/2024) | Tezos faucets, ZK proofs, Steel programs |
