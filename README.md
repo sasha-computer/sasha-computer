@@ -26,7 +26,7 @@ Projects are grouped by year. Tools I actually use live in [personal-software](h
 ## Highlights
 
 - 🔭 **[Argus](https://github.com/sasha-computer/2026/tree/main/argus)** - Debug tool for Boundless proof requests. Fetches from BoundlessMarket on Base, runs guest programs locally in the RISC Zero zkVM. Rust + Nix.
-- 🧙 **[gandalf](https://github.com/sasha-computer/2026/tree/main/gandalf)** - Reworked fork of NanoClaw. Personal Claude assistant on WhatsApp with durable memory, per-group queues, and native subprocess execution.
+- 🧙 **[gandalf](https://github.com/sasha-computer/2026/tree/main/gandalf)** - Reworked fork of NanoClaw. Personal Claude assistant on Discord with durable memory, per-group queues, and native subprocess execution.
 - 🌐 **[browser-verifier](https://github.com/sasha-computer/2025/tree/main/browser-verifier)** - ZK proof verification running entirely in the browser. RISC Zero STARK proofs verified client-side via WASM.
 - 🗺️ **[japan-trip](https://github.com/sasha-computer/2026/tree/main/japan-trip)** - 16-day Japan trip planner. Day-by-day itinerary, interactive map, budget tracker, drag-and-drop planner.
 - 🔍 **[domain-search](https://github.com/sasha-computer/personal-software/tree/main/domain-search)** - Search every TLD for available domains, right in the terminal. Async DNS + RDAP, domain hack detection, no API keys needed.
@@ -35,7 +35,7 @@ Projects are grouped by year. Tools I actually use live in [personal-software](h
 - 🎲 **[cubes](https://github.com/sasha-computer/2025/tree/main/cubes)** - 3D block puzzle game. Drag and rotate pieces to fill layers. SvelteKit + Three.js.
 - 🧠 **[nn](https://github.com/sasha-computer/2025/tree/main/nn)** - Neural networks from scratch. Backprop, gradient descent, tinygrad, all implemented by hand following Karpathy.
 - 🔐 **[collatz-zk](https://github.com/sasha-computer/2024/tree/main/collatz-zk)** - ZK proof that a Collatz sequence reaches 1, verified on-chain. RISC Zero + Solidity.
-- 🔎 **[vocs search fix](https://github.com/sasha-computer/vocs)** - Fixed broken search in Vocs docs framework. 270+ downloads on the release.
+- 🔎 **[vocs search fix](https://github.com/sasha-computer/vocs)** - Fixed broken search in Vocs docs framework. 270+ downloads on the release. Basically viral.
 - 📊 **[explorer-api](https://github.com/sasha-computer/2026/tree/main/explorer-api)** - Svelte 5 client for the Boundless Indexer API on Base, with Cloudflare Workers deployment.
 
 ## Currently
