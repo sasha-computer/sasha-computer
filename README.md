@@ -8,16 +8,17 @@
 ![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-By day: ~~developer~~ agent relations at [Boundless](https://docs.boundless.network). By night: budding computer interaction engineer. One day we will break free from the desktop metaphor. Maybe I can help make that happen.
+- **By day:** ~~developer~~ agent relations at [Boundless](https://docs.boundless.network)
+- **By night:** budding computer interaction engineer. One day we will break free from the desktop metaphor. Maybe I can help make that happen.
 
 <img src="./personal-software.png" width="300" />
 
-## How This GitHub Is Organized
-
-Projects are grouped by year. Tools I actually use live in [personal-software](https://github.com/sasha-computer/personal-software). Quick experiments and throwaway scripts go in [experiments](https://github.com/sasha-computer/experiments).
+## Projects
 
 | Repo | What's in there |
 |------|----------------|
+| [personal-software](https://github.com/sasha-computer/personal-software) | Tools I actually use. Domain search, photo backups, running tracker |
+| [experiments](https://github.com/sasha-computer/experiments) | Quick tools and throwaway scripts |
 | [2026](https://github.com/sasha-computer/2026) | zkVM debug tooling, AI agents, trip planners, spaced repetition |
 | [2025](https://github.com/sasha-computer/2025) | ZK in the browser, 3D puzzle games, neural nets from scratch |
 | [2024](https://github.com/sasha-computer/2024) | Tezos faucets, ZK proofs, Steel programs |
