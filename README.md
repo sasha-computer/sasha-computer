@@ -1,7 +1,5 @@
 # Hi, I'm Sasha 👋
 
-Budding computer interaction engineer. One day we will break free from the desktop metaphor. Maybe I can help make that happen.
-
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -9,6 +7,10 @@ Budding computer interaction engineer. One day we will break free from the deskt
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+
+Budding computer interaction engineer. One day we will break free from the desktop metaphor. Maybe I can help make that happen.
+
+<img src="./personal-software.png" width="300" />
 
 ## How This GitHub Is Organized
 
@@ -37,6 +39,4 @@ Projects are grouped by year. Tools I actually use live in [personal-software](h
 - 🔐 **[collatz-zk](https://github.com/sasha-computer/2024/tree/main/collatz-zk)** - ZK proof that a Collatz sequence reaches 1, verified on-chain. RISC Zero + Solidity.
 - 🔎 **[vocs search fix](https://github.com/sasha-computer/vocs)** - Fixed broken search in Vocs docs framework. 270+ downloads on the release. Basically viral.
 - 📊 **[explorer-api](https://github.com/sasha-computer/2026/tree/main/explorer-api)** - Svelte 5 client for the Boundless Indexer API on Base, with Cloudflare Workers deployment.
-
-<img src="./personal-software.png" width="300" />
 
