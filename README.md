@@ -2,6 +2,8 @@
 
 Budding computer interaction engineer. One day we will break free from the desktop metaphor.
 
+<img src="./personal-software.png" width="300" />
+
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,4 +40,3 @@ Projects are grouped by year. Tools I actually use live in [personal-software](h
 - 🔎 **[vocs search fix](https://github.com/sasha-computer/vocs)** - Fixed broken search in Vocs docs framework. 270+ downloads on the release. Basically viral.
 - 📊 **[explorer-api](https://github.com/sasha-computer/2026/tree/main/explorer-api)** - Svelte 5 client for the Boundless Indexer API on Base, with Cloudflare Workers deployment.
 
-![personal software](./personal-software.png)
