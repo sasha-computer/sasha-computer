@@ -8,7 +8,7 @@
 ![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-Budding computer interaction engineer. One day we will break free from the desktop metaphor. Maybe I can help make that happen.
+By day: ~~developer~~ agent relations at [Boundless](https://docs.boundless.network). By night: budding computer interaction engineer. One day we will break free from the desktop metaphor. Maybe I can help make that happen.
 
 <img src="./personal-software.png" width="300" />
 
