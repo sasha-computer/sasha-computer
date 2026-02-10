@@ -34,7 +34,7 @@ Projects are grouped by year. Tools I actually use live in [personal-software](h
 - 🔍 **[domain-search](https://github.com/sasha-computer/personal-software/tree/main/domain-search)** - Search every TLD for available domains, right in the terminal. Async DNS + RDAP, domain hack detection, no API keys needed.
 - 🤖 **[ralph-wiggum](https://github.com/sasha-computer/2026/tree/main/ralph-wiggum)** - Turns Claude Code into an autonomous task runner. Give it a PRD, it works through each task, commits, and moves on.
 - 📚 **[pdfcards](https://github.com/sasha-computer/2026/tree/main/pdfcards)** - Local PDF reader with built-in highlighting and spaced repetition flashcards.
-- 🎲 **[cubes](https://github.com/sasha-computer/2025/tree/main/cubes)** - 3D block puzzle game. Drag and rotate pieces to fill layers. SvelteKit + Three.js.
+- 🎲 **[hypergrid](https://github.com/sasha-computer/2025/tree/main/hypergrid)** - Interactive personal site. Roll a 3D cube across a grid, land on tiles to reveal content. SvelteKit + Three.js.
 - 🧠 **[nn](https://github.com/sasha-computer/2025/tree/main/nn)** - Neural networks from scratch. Backprop, gradient descent, tinygrad, all implemented by hand following Karpathy.
 - 🔐 **[collatz-zk](https://github.com/sasha-computer/2024/tree/main/collatz-zk)** - ZK proof that a Collatz sequence reaches 1, verified on-chain. RISC Zero + Solidity.
 - 🔎 **[vocs search fix](https://github.com/sasha-computer/vocs)** - Fixed broken search in Vocs docs framework. 270+ downloads on the release. Basically viral.
