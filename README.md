@@ -38,10 +38,4 @@ Projects are grouped by year. Tools I actually use live in [personal-software](h
 - 🔎 **[vocs search fix](https://github.com/sasha-computer/vocs)** - Fixed broken search in Vocs docs framework. 270+ downloads on the release. Basically viral.
 - 📊 **[explorer-api](https://github.com/sasha-computer/2026/tree/main/explorer-api)** - Svelte 5 client for the Boundless Indexer API on Base, with Cloudflare Workers deployment.
 
-## Currently
-
-- 📖 Working through [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) (Abelson & Sussman)
-- 🐍 [boot.dev](https://www.boot.dev/u/sasha-computer) courses
-- ⚙️ Building on [Boundless](https://beboundless.xyz/) / RISC Zero
-
 ![personal software](./personal-software.png)
