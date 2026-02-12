@@ -17,6 +17,7 @@
 
 | Repo | What's in there |
 |------|----------------|
+| [pif](https://github.com/sasha-computer/pif) | Run a command. If it fails, send the output to [pi](https://github.com/mariozechner/pi-coding-agent) for help. |
 | [personal-software](https://github.com/sasha-computer/personal-software) | Directory of tools I made for myself using [the shoggoth](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence) |
 | [experiments](https://github.com/sasha-computer/experiments) | Experiments go here. What else did you think? |
 | [2026](https://github.com/sasha-computer/2026) | zkVM debug tooling, AI agents, trip planners, spaced repetition |
