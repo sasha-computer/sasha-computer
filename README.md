@@ -17,6 +17,7 @@
 
 | Repo | What's in there |
 |------|----------------|
+| [x-likes](https://github.com/sasha-computer/x-likes) | Fuzzy search 13K+ X/Twitter likes from the terminal. SQLite FTS5 + fzf. |
 | [pif](https://github.com/sasha-computer/pif) | Run a command. If it fails, send the output to [pi](https://github.com/mariozechner/pi-coding-agent) for help. |
 | [personal-software](https://github.com/sasha-computer/personal-software) | Directory of tools I made for myself using [the shoggoth](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence) |
 | [experiments](https://github.com/sasha-computer/experiments) | Experiments go here. What else did you think? |
