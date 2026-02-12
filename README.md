@@ -45,5 +45,5 @@ Everything that isn't its own repo lives in a year monorepo. One repo per year, 
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@aldrickdev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aldrickdev)
+[![X](https://img.shields.io/badge/-@sasha--computer-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sasha-computer)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sasha-computer)
