@@ -17,7 +17,7 @@
 
 | Repo | What's in there |
 |------|----------------|
-| [personal-software](https://github.com/sasha-computer/personal-software) | Tools I made for myself using [the shoggoth](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence) |
+| [personal-software](https://github.com/sasha-computer/personal-software) | Directory of tools I made for myself using [the shoggoth](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence) |
 | [experiments](https://github.com/sasha-computer/experiments) | Experiments go here. What else did you think? |
 | [2026](https://github.com/sasha-computer/2026) | zkVM debug tooling, AI agents, trip planners, spaced repetition |
 | [2025](https://github.com/sasha-computer/2025) | ZK in the browser, 3D puzzle games, neural nets from scratch |
@@ -32,7 +32,7 @@
 - 🧙 **[gandalf](https://github.com/sasha-computer/2026/tree/main/gandalf)** - Reworked fork of NanoClaw. Personal Claude assistant on Discord with durable memory, per-group queues, and native subprocess execution.
 - 🌐 **[browser-verifier](https://github.com/sasha-computer/2025/tree/main/browser-verifier)** - ZK proof verification running entirely in the browser. RISC Zero STARK proofs verified client-side via WASM.
 - 🗺️ **[japan-trip](https://github.com/sasha-computer/2026/tree/main/japan-trip)** - 16-day Japan trip planner. Day-by-day itinerary, interactive map, budget tracker, drag-and-drop planner.
-- 🔍 **[domain-search](https://github.com/sasha-computer/personal-software/tree/main/domain-search)** - Search every TLD for available domains, right in the terminal. Async DNS + RDAP, domain hack detection, no API keys needed.
+- 🔍 **[domain-search](https://github.com/sasha-computer/domain-search)** - Search every TLD for available domains, right in the terminal. Async DNS + RDAP, domain hack detection, no API keys needed.
 - 🤖 **[ralph-wiggum](https://github.com/sasha-computer/2026/tree/main/ralph-wiggum)** - Turns Claude Code into an autonomous task runner. Give it a PRD, it works through each task, commits, and moves on.
 - 📚 **[pdfcards](https://github.com/sasha-computer/2026/tree/main/pdfcards)** - Local PDF reader with built-in highlighting and spaced repetition flashcards.
 - 🎲 **[hypergrid](https://github.com/sasha-computer/2025/tree/main/hypergrid)** - Interactive personal site. Roll a 3D cube across a grid, land on tiles to reveal content. SvelteKit + Three.js.
