@@ -16,7 +16,7 @@
 
 - 🔍 **[pi-fzf](https://github.com/sasha-computer/pi-fzf)** — Fuzzy find and resume Pi coding agent sessions. Go + fzf.
 - ❤️ **[x-likes](https://github.com/sasha-computer/x-likes)** — Fuzzy search 13K+ X/Twitter likes from the terminal. SQLite FTS5 + fzf.
-- 👉 **[pif](https://github.com/sasha-computer/pif)** — Run a command. If it fails, send the output to [pi](https://github.com/mariozechner/pi-coding-agent) for help.
+- 👉 **[pif](https://github.com/sasha-computer/pif)** — Run a command. If it fails, send the output to [pi](https://github.com/badlogic/pi-mono) for help.
 - 🎚️ **[ccusage](https://github.com/sasha-computer/ccusage)** — Minimal macOS menu bar app for real-time Claude Code usage monitoring. Swift.
 - 🌐 **[domain-search](https://github.com/sasha-computer/domain-search)** — Search every TLD for available domains, right in the terminal. Async DNS + RDAP.
 - 🏃 **[plain-text-running-tracker](https://github.com/sasha-computer/plain-text-running-tracker)** — Parse Apple Health exports and Garmin FIT files into a markdown running log.
@@ -34,9 +34,14 @@
 
 ### Monorepos
 
-- 🗃️ **[personal-software](https://github.com/sasha-computer/personal-software)** — Directory of tools I made for myself using the shoggoth
+- 🗃️ **[personal-software](https://github.com/sasha-computer/personal-software)** — Directory of tools I made for myself using [the shoggoth](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence)
 - 🧪 **[experiments](https://github.com/sasha-computer/experiments)** — Experiments go here
-- **[2026](https://github.com/sasha-computer/2026)** · **[2025](https://github.com/sasha-computer/2025)** · **[2024](https://github.com/sasha-computer/2024)** · **[2023](https://github.com/sasha-computer/2023)** · **[2022](https://github.com/sasha-computer/2022)** · **[2021](https://github.com/sasha-computer/2021)**
+
+### Year repos
+
+Everything that isn't its own repo lives in a year monorepo. One repo per year, all projects inside.
+
+**[2026](https://github.com/sasha-computer/2026)** · **[2025](https://github.com/sasha-computer/2025)** · **[2024](https://github.com/sasha-computer/2024)** · **[2023](https://github.com/sasha-computer/2023)** · **[2022](https://github.com/sasha-computer/2022)** · **[2021](https://github.com/sasha-computer/2021)**
 
 ## Connect
 
