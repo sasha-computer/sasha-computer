@@ -21,7 +21,7 @@
 - 👉 **[pif](https://github.com/sasha-computer/pif)** — Run a command. If it fails, send the output to [pi](https://github.com/badlogic/pi-mono) for help.
 - 🎚️ **[ccusage](https://github.com/sasha-computer/ccusage)** — Minimal macOS menu bar app for real-time Claude Code usage monitoring. Swift.
 - 🌐 **[domain-search](https://github.com/sasha-computer/domain-search)** — Search every TLD for available domains, right in the terminal. Async DNS + RDAP.
-- ⚔️ **[osrs](https://github.com/sasha-computer/osrs)** — Ironman progress tracker for WoodFiveMan. After a childhood of video games, this is the one that stuck.
+- ⚔️ **[osrs](https://github.com/sasha-computer/osrs)** — Ironman progress tracker for [WoodFiveMan](https://wiseoldman.net/players/WoodFiveMan). After a childhood of video games, this is the one that stuck.
 - 🏃 **[plain-text-running-tracker](https://github.com/sasha-computer/plain-text-running-tracker)** — Parse Apple Health exports and Garmin FIT files into a markdown running log.
 - 🔭 **[Argus](https://github.com/sasha-computer/2026/tree/main/argus)** — Debug tool for Boundless proof requests. Fetches from BoundlessMarket on Base, runs guest programs locally in the RISC Zero zkVM.
 - 🧙 **[gandalf](https://github.com/sasha-computer/2026/tree/main/gandalf)** — Personal Claude assistant on Discord with durable memory, per-group queues, and native subprocess execution.
