@@ -1,7 +1,5 @@
 # Hi, I'm Sasha 👋
 
-📍 **London** | 🤖 **Agent relations at [Boundless](https://docs.boundless.network)** | 🧪 **Building tools with the shoggoth**
-
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -10,7 +8,10 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> One day we will break free from the desktop metaphor. Maybe I can help make that happen.
+- **By day:** ~~developer~~ agent relations at [Boundless](https://docs.boundless.network)
+- **By night:** budding computer interaction engineer. One day we will break free from the desktop metaphor. Maybe I can help make that happen.
+
+<img src="./personal-software.png" width="300" />
 
 ## Projects
 
