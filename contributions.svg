@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="200" fill="none">
+  <style>
+    .repo { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #e6edf3; }
+    .desc { font: 400 11.5px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .tag  { font: 600 10px 'Segoe UI', Ubuntu, sans-serif; fill: #000; }
+  </style>
+
+  <!-- Handy -->
+  <g transform="translate(0,0)">
+    <rect width="326" height="82" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <text x="16" y="28" class="repo">🤚 cjpais/Handy</text>
+    <rect x="16" y="40" width="52" height="18" rx="9" fill="#3fb950"/>
+    <text x="26" y="53" class="tag">merged</text>
+    <text x="76" y="53" class="desc">Auto-submit after transcription paste</text>
+  </g>
+
+  <!-- TinyClaw -->
+  <g transform="translate(346,0)">
+    <rect width="326" height="82" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <text x="16" y="28" class="repo">🦞 jlia0/tinyclaw</text>
+    <rect x="16" y="40" width="34" height="18" rx="9" fill="#f85149"/>
+    <text x="24.5" y="53" class="tag">PR</text>
+    <text x="58" y="53" class="desc">Discord integration + setup wizard</text>
+  </g>
+
+  <!-- ccusage -->
+  <g transform="translate(0,102)">
+    <rect width="326" height="82" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <text x="16" y="28" class="repo">🎚️ NewTurn2017/ccusage</text>
+    <rect x="16" y="40" width="42" height="18" rx="9" fill="#1f6feb"/>
+    <text x="24" y="53" class="tag">open</text>
+    <text x="66" y="53" class="desc">English language support with KO/EN toggle</text>
+  </g>
+
+  <!-- RuneLite -->
+  <g transform="translate(346,102)">
+    <rect width="326" height="82" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <text x="16" y="28" class="repo">🔥 runelite/plugin-hub</text>
+    <rect x="16" y="40" width="42" height="18" rx="9" fill="#1f6feb"/>
+    <text x="24" y="53" class="tag">open</text>
+    <text x="66" y="53" class="desc">Add firemaking plugin</text>
+  </g>
+</svg>

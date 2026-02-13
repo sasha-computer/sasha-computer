@@ -44,6 +44,15 @@ Everything that isn't its own repo lives in a year monorepo. One repo per year, 
 
 **[2026](https://github.com/sasha-computer/2026)** · **[2025](https://github.com/sasha-computer/2025)** · **[2024](https://github.com/sasha-computer/2024)** · **[2023](https://github.com/sasha-computer/2023)** · **[2022](https://github.com/sasha-computer/2022)** · **[2021](https://github.com/sasha-computer/2021)**
 
+## Contributed to
+
+<img src="./contributions.svg" width="680" />
+
+- 🤚 **[Handy](https://github.com/cjpais/Handy/pull/765)** — Configurable auto-submit after transcription paste
+- 🦞 **[TinyClaw](https://github.com/jlia0/tinyclaw/pull/10)** — Discord integration + multi-channel setup wizard
+- 🎚️ **[ccusage](https://github.com/NewTurn2017/ccusage/pull/1)** — English language support with KO/EN toggle
+- 🔥 **[RuneLite plugin-hub](https://github.com/runelite/plugin-hub/pull/10536)** — Firemaking plugin
+
 ## Connect
 
 [![X](https://img.shields.io/badge/-@sasha--computer-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sasha-computer)
