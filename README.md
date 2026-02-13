@@ -46,12 +46,8 @@ Everything that isn't its own repo lives in a year monorepo. One repo per year, 
 
 ## Contributed to
 
-<img src="./contributions.svg" width="680" />
-
-- 🤚 **[Handy](https://github.com/cjpais/Handy/pull/765)** — Configurable auto-submit after transcription paste
-- 🦞 **[TinyClaw](https://github.com/jlia0/tinyclaw/pull/10)** — Discord integration + multi-channel setup wizard
-- 🎚️ **[ccusage](https://github.com/NewTurn2017/ccusage/pull/1)** — English language support with KO/EN toggle
-- 🔥 **[RuneLite plugin-hub](https://github.com/runelite/plugin-hub/pull/10536)** — Firemaking plugin
+<a href="https://github.com/cjpais/Handy/pull/765"><img src="./contrib-handy.svg" width="326" /></a> <a href="https://github.com/jlia0/tinyclaw/pull/10"><img src="./contrib-tinyclaw.svg" width="326" /></a>
+<a href="https://github.com/NewTurn2017/ccusage/pull/1"><img src="./contrib-ccusage.svg" width="326" /></a> <a href="https://github.com/runelite/plugin-hub/pull/10536"><img src="./contrib-runelite.svg" width="326" /></a>
 
 ## Connect
 

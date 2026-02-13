@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="326" height="82" fill="none">
+  <style>
+    .repo { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #e6edf3; }
+    .desc { font: 400 11.5px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .tag  { font: 600 10px 'Segoe UI', Ubuntu, sans-serif; fill: #000; }
+  </style>
+  <rect width="326" height="82" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="16" y="28" class="repo">🤚 cjpais/Handy</text>
+  <rect x="16" y="40" width="52" height="18" rx="9" fill="#3fb950"/>
+  <text x="26" y="53" class="tag">merged</text>
+  <text x="76" y="53" class="desc">Auto-submit after transcription paste</text>
+</svg>
