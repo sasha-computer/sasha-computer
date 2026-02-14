@@ -15,6 +15,7 @@
 
 ## Projects
 
+- 📖 **[readwise-triage](https://github.com/sasha-computer/readwise-triage)** -- Swipe through your Readwise Reader inbox like Tinder. Bun + SQLite.
 - 📊 **[sidebar](https://github.com/sasha-computer/sidebar)** — Permanent macOS desktop sidebar. Svelte + Tailwind in a Hammerspoon webview, pinned to your widescreen monitor.
 - 🎨 **[pi-themes](https://github.com/sasha-computer/pi-themes)** — Matching dark/light themes for pi + Ghostty that follow your system appearance. Catppuccin, Everforest, High Contrast.
 - 🔍 **[pi-fzf](https://github.com/sasha-computer/pi-fzf)** — Fuzzy find and resume Pi coding agent sessions. Python + fzf.
