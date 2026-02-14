@@ -15,6 +15,7 @@
 
 ## Projects
 
+- 📊 **[sidebar](https://github.com/sasha-computer/sidebar)** — Permanent macOS desktop sidebar. Svelte + Tailwind in a Hammerspoon webview, pinned to your widescreen monitor.
 - 🎨 **[pi-themes](https://github.com/sasha-computer/pi-themes)** — Matching dark/light themes for pi + Ghostty that follow your system appearance. Catppuccin, Everforest, High Contrast.
 - 🔍 **[pi-fzf](https://github.com/sasha-computer/pi-fzf)** — Fuzzy find and resume Pi coding agent sessions. Python + fzf.
 - ❤️ **[x-likes](https://github.com/sasha-computer/x-likes)** — Fuzzy search 13K+ X/Twitter likes from the terminal. SQLite FTS5 + fzf.
