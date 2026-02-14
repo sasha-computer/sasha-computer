@@ -20,7 +20,7 @@
 - 🔍 **[pi-fzf](https://github.com/sasha-computer/pi-fzf)** — Fuzzy find and resume Pi coding agent sessions. Python + fzf.
 - ❤️ **[x-likes](https://github.com/sasha-computer/x-likes)** — Fuzzy search 13K+ X/Twitter likes from the terminal. SQLite FTS5 + fzf.
 - 👉 **[pif](https://github.com/sasha-computer/pif)** — Run a command. If it fails, send the output to [pi](https://github.com/badlogic/pi-mono) for help.
-- 🎚️ **[ccusage](https://github.com/sasha-computer/ccusage)** — Minimal macOS menu bar app for real-time Claude Code usage monitoring. Swift.
+- 🎚️ **[claude-code-usage](https://github.com/sasha-computer/claude-code-usage)** — See your Claude Code rate limits in the macOS menu bar. Always. Swift.
 - 🌐 **[domain-search](https://github.com/sasha-computer/domain-search)** — Search every TLD for available domains, right in the terminal. Async DNS + RDAP.
 - ⚔️ **[osrs](https://github.com/sasha-computer/osrs)** — Ironman progress tracker for [WoodFiveMan](https://wiseoldman.net/players/WoodFiveMan). After a childhood of video games, this is the one that stuck.
 - 🏃 **[plain-text-running-tracker](https://github.com/sasha-computer/plain-text-running-tracker)** — Parse Apple Health exports and Garmin FIT files into a markdown running log.
@@ -50,7 +50,7 @@ Everything that isn't its own repo lives in a year monorepo. One repo per year, 
 ## Contributed to
 
 <a href="https://github.com/cjpais/Handy/pull/765"><img src="./contrib-handy.svg" width="326" /></a> <a href="https://github.com/jlia0/tinyclaw/pull/10"><img src="./contrib-tinyclaw.svg" width="326" /></a>
-<a href="https://github.com/NewTurn2017/ccusage/pull/1"><img src="./contrib-ccusage.svg" width="326" /></a> <a href="https://github.com/runelite/plugin-hub/pull/10536"><img src="./contrib-runelite.svg" width="326" /></a>
+<a href="https://github.com/runelite/plugin-hub/pull/10536"><img src="./contrib-runelite.svg" width="326" /></a>
 
 ## Connect
 
