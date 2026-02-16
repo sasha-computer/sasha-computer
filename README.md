@@ -36,7 +36,7 @@
 - 🔐 **[collatz-zk](https://github.com/sasha-computer/2024/tree/main/collatz-zk)** — ZK proof that a Collatz sequence reaches 1, verified on-chain. RISC Zero + Solidity.
 - 📊 **[explorer-api](https://github.com/sasha-computer/2026/tree/main/explorer-api)** — Svelte 5 client for the Boundless Indexer API on Base, with Cloudflare Workers deployment.
 - 🔎 **[vocs search fix](https://github.com/sasha-computer/vocs)** — Fixed broken search in Vocs docs framework. 270+ downloads on the release.
-- 🩶 **[raycast-scripts](https://github.com/sasha-computer/raycast-scripts)** — Personal Raycast script commands. Grayscale toggle via BetterDisplay, etc.
+- 🩶 **[raycast-goodies](https://github.com/sasha-computer/raycast-goodies)** — Raycast script commands for display control, focus modes, search, DNS switching, and more.
 
 ### Monorepos
 
