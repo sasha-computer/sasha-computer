@@ -17,8 +17,9 @@
 
 - 📖 **[readwise-triage](https://github.com/sasha-computer/readwise-triage)** -- Swipe through your Readwise Reader inbox like Tinder. Bun + SQLite.
 - 📊 **[sidebar](https://github.com/sasha-computer/sidebar)** — Permanent macOS desktop sidebar. Svelte + Tailwind in a Hammerspoon webview, pinned to your widescreen monitor.
-- 🎨 **[pi-themes](https://github.com/sasha-computer/pi-themes)** — Matching dark/light themes for pi + Ghostty that follow your system appearance. Catppuccin, Everforest, High Contrast.
-- 🔍 **[pi-fzf](https://github.com/sasha-computer/pi-fzf)** — Fuzzy find and resume Pi coding agent sessions. Python + fzf.
+- 🎨 **[pi-ghostty-sync](https://github.com/sasha-computer/pi-ghostty-sync)** — Matching dark/light themes for pi + Ghostty that follow your system appearance. Catppuccin, Everforest, High Contrast.
+- 🔍 **[pi-chat-fzf](https://github.com/sasha-computer/pi-chat-fzf)** — Fuzzy find and resume Pi coding agent sessions. Python + fzf.
+- 📝 **[pi-auto-summary](https://github.com/sasha-computer/pi-auto-summary)** — Auto-save structured session logs when exiting pi. Commits to git if in a repo.
 - ❤️ **[x-likes](https://github.com/sasha-computer/x-likes)** — Fuzzy search 13K+ X/Twitter likes from the terminal. SQLite FTS5 + fzf.
 - 👉 **[pif](https://github.com/sasha-computer/pif)** — Run a command. If it fails, send the output to [pi](https://github.com/badlogic/pi-mono) for help.
 - 🎚️ **[claude-code-usage](https://github.com/sasha-computer/claude-code-usage)** — See your Claude Code rate limits in the macOS menu bar. Always. Swift.
