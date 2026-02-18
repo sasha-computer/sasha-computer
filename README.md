@@ -17,7 +17,7 @@
 
 - 📖 **[readwise-triage](https://github.com/sasha-computer/readwise-triage)** -- Swipe through your Readwise Reader inbox like Tinder. Bun + SQLite.
 - 📊 **[sidebar](https://github.com/sasha-computer/sidebar)** — Permanent macOS desktop sidebar. Svelte + Tailwind in a Hammerspoon webview, pinned to your widescreen monitor.
-- 🎨 **[pi-ghostty-sync](https://github.com/sasha-computer/pi-ghostty-sync)** — Matching dark/light themes for pi + Ghostty that follow your system appearance. Catppuccin, Everforest, High Contrast.
+- 🎨 **[pi-auto-theme](https://github.com/sasha-computer/pi-auto-theme)** — Auto-switching themes for pi, Ghostty, and tmux that follow your system appearance. Catppuccin, Everforest, High Contrast.
 - 🔍 **[pi-chat-fzf](https://github.com/sasha-computer/pi-chat-fzf)** — Fuzzy find and resume Pi coding agent sessions. Python + fzf.
 - 📝 **[pi-auto-summary](https://github.com/sasha-computer/pi-auto-summary)** — Auto-save structured session logs when exiting pi. Commits to git if in a repo.
 - 🔀 **[pi-auto-router](https://github.com/sasha-computer/pi-auto-router)** — Automatically routes prompts to Sonnet or Opus. Haiku classifies, the right model answers.
