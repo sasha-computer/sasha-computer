@@ -11,8 +11,6 @@
 - **By day:** ~~developer~~ agent relations at [Boundless](https://docs.boundless.network)
 - **By night:** budding computer interaction engineer. One day we will break free from the desktop metaphor. Maybe I can help make that happen.
 
-<img src="./personal-software.png" width="300" />
-
 ## Projects
 
 - 📖 **[readwise-triage](https://github.com/sasha-computer/readwise-triage)** -- Swipe through your Readwise Reader inbox like Tinder. Bun + SQLite.
@@ -20,7 +18,8 @@
 - 🎨 **[pi-ghostty-sync](https://github.com/sasha-computer/pi-ghostty-sync)** — Matching dark/light themes for pi + Ghostty that follow your system appearance. Catppuccin, Everforest, High Contrast.
 - 🔍 **[pi-chat-fzf](https://github.com/sasha-computer/pi-chat-fzf)** — Fuzzy find and resume Pi coding agent sessions. Python + fzf.
 - 📝 **[pi-auto-summary](https://github.com/sasha-computer/pi-auto-summary)** — Auto-save structured session logs when exiting pi. Commits to git if in a repo.
-- 💰 **[pi-model-tier-coach](https://github.com/sasha-computer/pi-model-tier-coach)** — Nudges you when your task doesn't match your model's cost tier. Stop wasting Opus on file reads.
+- 🔀 **[pi-auto-router](https://github.com/sasha-computer/pi-auto-router)** — Automatically routes prompts to Sonnet or Opus. Haiku classifies, the right model answers.
+- 📅 **[pi-daily](https://github.com/sasha-computer/pi-daily)** — AI RescueTime for Obsidian daily notes. Scans pi sessions and generates a summary of what you worked on.
 - ❤️ **[x-likes](https://github.com/sasha-computer/x-likes)** — Fuzzy search 13K+ X/Twitter likes from the terminal. SQLite FTS5 + fzf.
 - 👉 **[pif](https://github.com/sasha-computer/pif)** — Run a command. If it fails, send the output to [pi](https://github.com/badlogic/pi-mono) for help.
 - 🎚️ **[claude-code-usage](https://github.com/sasha-computer/claude-code-usage)** — See your Claude Code rate limits in the macOS menu bar. Always. Swift.
@@ -38,11 +37,12 @@
 - 🔐 **[collatz-zk](https://github.com/sasha-computer/2024/tree/main/collatz-zk)** — ZK proof that a Collatz sequence reaches 1, verified on-chain. RISC Zero + Solidity.
 - 📊 **[explorer-api](https://github.com/sasha-computer/2026/tree/main/explorer-api)** — Svelte 5 client for the Boundless Indexer API on Base, with Cloudflare Workers deployment.
 - 🔎 **[vocs search fix](https://github.com/sasha-computer/vocs)** — Fixed broken search in Vocs docs framework. 270+ downloads on the release.
+- 📈 **[polymarket-copytrade](https://github.com/sasha-computer/polymarket-copytrade)** — Automated bot that copy-trades top Polymarket bettors with risk management.
+- 🔥 **[runelite-firemaking](https://github.com/sasha-computer/runelite-firemaking)** — RuneLite plugin that tracks firemaking session stats. XP, logs burned, time elapsed.
 - 🩶 **[raycast-goodies](https://github.com/sasha-computer/raycast-goodies)** — Raycast script commands for display control, focus modes, search, DNS switching, and more.
 
 ### Monorepos
 
-- 🗃️ **[personal-software](https://github.com/sasha-computer/personal-software)** — Directory of tools I made for myself using [the shoggoth](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence)
 - 🧪 **[experiments](https://github.com/sasha-computer/experiments)** — Experiments go here
 
 ### Year repos
