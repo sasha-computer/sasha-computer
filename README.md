@@ -11,6 +11,8 @@
 - **By day:** ~~developer~~ agent relations at [Boundless](https://docs.boundless.network)
 - **By night:** budding computer interaction engineer. One day we will break free from the desktop metaphor. Maybe I can help make that happen.
 
+<img src="./personal-software.png" width="300" />
+
 ## Projects
 
 - 📖 **[readwise-triage](https://github.com/sasha-computer/readwise-triage)** -- Swipe through your Readwise Reader inbox like Tinder. Bun + SQLite.
