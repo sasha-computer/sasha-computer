@@ -26,6 +26,7 @@
 - 🔑 **[pi-multi-claude-code](https://github.com/sasha-computer/pi-multi-claude-code)** -- Switch between multiple Anthropic OAuth accounts in pi. Directional fallback chains keep personal and enterprise isolated.
 - 📅 **[pi-daily](https://github.com/sasha-computer/pi-daily)** — AI RescueTime for Obsidian daily notes. Scans pi sessions and generates a summary of what you worked on.
 - ❤️ **[x-likes](https://github.com/sasha-computer/x-likes)** — Fuzzy search 13K+ X/Twitter likes from the terminal. SQLite FTS5 + fzf.
+- 🐦 **[bird-tweet-cli](https://github.com/sasha-computer/bird-tweet-cli)** — Read-only X/Twitter CLI fork with native Helium browser cookie decryption. No write ops.
 - 👉 **[pif](https://github.com/sasha-computer/pif)** — Run a command. If it fails, send the output to [pi](https://github.com/badlogic/pi-mono) for help.
 - 🎚️ **[claude-code-usage](https://github.com/sasha-computer/claude-code-usage)** — See your Claude Code rate limits in the macOS menu bar. Always. Swift.
 - 🌐 **[domain-search](https://github.com/sasha-computer/domain-search)** — Search every TLD for available domains, right in the terminal. Async DNS + RDAP.
