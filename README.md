@@ -22,6 +22,7 @@
 - 🔍 **[pi-chat-fzf](https://github.com/sasha-computer/pi-chat-fzf)** — Fuzzy find and resume Pi coding agent sessions. Python + fzf.
 - 📝 **[pi-auto-summary](https://github.com/sasha-computer/pi-auto-summary)** — Auto-save structured session logs when exiting pi. Commits to git if in a repo.
 - ⏱️ **[pie-thinking-timer](https://github.com/sasha-computer/pie-thinking-timer)** -- Minimal pi extension that shows a live timer on collapsed thinking blocks.
+- 📡 **[pi-cmux](https://github.com/sasha-computer/pi-cmux)** -- Pi extension for cmux. Context-aware notifications, sidebar status, and browser automation over the socket API.
 - 🔀 **[pi-auto-router](https://github.com/sasha-computer/pi-auto-router)** — Automatically routes prompts to Sonnet or Opus. Haiku classifies, the right model answers.
 - 🔑 **[pi-multi-claude-code](https://github.com/sasha-computer/pi-multi-claude-code)** -- Switch between multiple Anthropic OAuth accounts in pi. Directional fallback chains keep personal and enterprise isolated.
 - 📅 **[pi-daily](https://github.com/sasha-computer/pi-daily)** — AI RescueTime for Obsidian daily notes. Scans pi sessions and generates a summary of what you worked on.
