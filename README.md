@@ -45,10 +45,7 @@
 - 🔎 **[vocs search fix](https://github.com/sasha-computer/vocs)** — Fixed broken search in Vocs docs framework. 270+ downloads on the release.
 - 🔥 **[runelite-firemaking](https://github.com/sasha-computer/runelite-firemaking)** — RuneLite plugin that tracks firemaking session stats. XP, logs burned, time elapsed.
 - 🩶 **[raycast-goodies](https://github.com/sasha-computer/raycast-goodies)** — Raycast script commands for display control, focus modes, search, DNS switching, and more.
-
-### Monorepos
-
-- 🧪 **[experiments](https://github.com/sasha-computer/experiments)** — Experiments go here
+- 🔤 **[ai-font-generation](https://github.com/sasha-computer/ai-font-generation)** — Convert proportional fonts to monospaced using fontTools. Built Bookerly Mono.
 
 ### Year repos
 
