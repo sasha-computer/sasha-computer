@@ -25,6 +25,7 @@
 - 📡 **[pi-cmux](https://github.com/sasha-computer/pi-cmux)** -- Pi extension for cmux. Context-aware notifications, sidebar status, and browser automation over the socket API.
 - 🔀 **[pi-auto-router](https://github.com/sasha-computer/pi-auto-router)** — Automatically routes prompts to Sonnet or Opus. Haiku classifies, the right model answers.
 - 🔑 **[pi-multi-claude-code](https://github.com/sasha-computer/pi-multi-claude-code)** -- Switch between multiple Anthropic OAuth accounts in pi. Directional fallback chains keep personal and enterprise isolated.
+- 🔀 **[omp-account-switcher](https://github.com/sasha-computer/omp-account-switcher)** -- Switch between multiple Anthropic OAuth accounts in Oh My Pi. Tested, symlinked extension.
 - 📅 **[pi-daily](https://github.com/sasha-computer/pi-daily)** — AI RescueTime for Obsidian daily notes. Scans pi sessions and generates a summary of what you worked on.
 - ❤️ **[x-likes](https://github.com/sasha-computer/x-likes)** — Fuzzy search 13K+ X/Twitter likes from the terminal. SQLite FTS5 + fzf.
 - 👉 **[pif](https://github.com/sasha-computer/pif)** — Run a command. If it fails, send the output to [pi](https://github.com/badlogic/pi-mono) for help.
