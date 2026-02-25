@@ -48,6 +48,7 @@
 - 🩶 **[raycast-goodies](https://github.com/sasha-computer/raycast-goodies)** — Raycast script commands for display control, focus modes, search, DNS switching, and more.
 - 🔤 **[ai-font-generation](https://github.com/sasha-computer/ai-font-generation)** — Convert proportional fonts to monospaced using fontTools. Built Bookerly Mono.
 - 📹 **[x-video-dl](https://github.com/sasha-computer/x-video-dl)** -- Chrome extension that downloads videos from X/Twitter with quality selection.
+- 🔄 **[extension-reloader](https://github.com/sasha-computer/extension-reloader)** -- Reload all unpacked Chrome extensions with one click or a keyboard shortcut.
 
 ### Year repos
 
