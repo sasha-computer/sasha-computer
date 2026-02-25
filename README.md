@@ -47,7 +47,7 @@
 - 🔥 **[runelite-firemaking](https://github.com/sasha-computer/runelite-firemaking)** — RuneLite plugin that tracks firemaking session stats. XP, logs burned, time elapsed.
 - 🩶 **[raycast-goodies](https://github.com/sasha-computer/raycast-goodies)** — Raycast script commands for display control, focus modes, search, DNS switching, and more.
 - 🔤 **[ai-font-generation](https://github.com/sasha-computer/ai-font-generation)** — Convert proportional fonts to monospaced using fontTools. Built Bookerly Mono.
-- 📹 **[tweet-video-dl](https://github.com/sasha-computer/tweet-video-dl)** -- Chrome extension that downloads videos from tweets with quality selection.
+- 📹 **[x-video-dl](https://github.com/sasha-computer/x-video-dl)** -- Chrome extension that downloads videos from X/Twitter with quality selection.
 
 ### Year repos
 
