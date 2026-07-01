@@ -6,11 +6,44 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00&style=flat-square&logo=svelte&logoColor=white)
 
 ~5 years as a technical generalist in cryptography and developer infrastructure, communicating and organising across teams and communities.
 
 ## Featured Projects
+
+### Web
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sasha-computer/2025/tree/main/hypergrid">Hypergrid</a></h3>
+      <p>Interactive personal site concept. Roll a 3D cube across an 8x8 grid with arrow keys. Landing on highlighted tiles reveals content panels. Pivot-point roll animations with eased quaternion interpolation and per-face materials.</p>
+      <p><sub>SvelteKit · Three.js · TypeScript</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sasha-computer/2025/tree/main/nn">Neural Nets from Scratch</a></h3>
+      <p>Working through Karpathy's Zero to Hero series. Built a custom autograd engine with backpropagation (addition, multiplication, power, tanh), then a multi-layer perceptron. Also tried tinygrad for GPU tensor ops on Apple Metal.</p>
+      <p><sub>Python · NumPy · tinygrad</sub></p>
+    </td>
+  </tr>
+</table>
+
+### Tooling
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sasha-computer/2026/tree/main/gandalf">Gandalf</a></h3>
+      <p>Personal AI assistant on Discord and WhatsApp. Reworked from NanoClaw with durable memory (QMD search), per-group message queues with SQLite state, native subprocess execution, and graceful shutdown.</p>
+      <p><sub>TypeScript · Bun · SQLite · Claude API</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sasha-computer/2026/tree/main/pdfcards">PDFCards</a></h3>
+      <p>Local PDF reader with highlighting and spaced repetition flashcards. Highlight text, turn highlights into flashcards, review them with SRS. Built after watching Dwarkesh Patel and Andy Matuschak talk about studying.</p>
+      <p><sub>Bun · TypeScript · pdf.js</sub></p>
+    </td>
+  </tr>
+</table>
 
 ### ZK & Cryptography
 
@@ -20,18 +53,6 @@
       <h3><a href="https://github.com/sasha-computer/2025/tree/main/browser-verifier">In-Browser ZK Verifier</a></h3>
       <p>Compiles a RISC Zero verifier to WebAssembly and runs it in a Next.js app. Proves the 1,000,000th Fibonacci number, then verifies the proof in the browser faster than recomputing it. <a href="https://www.youtube.com/watch?v=aTCPCf8ff-c">Video walkthrough</a>.</p>
       <p><sub>Rust · R0VM · wasm-pack · WebAssembly · Next.js</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sasha-computer/2024/tree/main/collatz-zk">Collatz ZK Proof</a></h3>
-      <p>ZK proof that a number satisfies the Collatz conjecture, verified on-chain. The guest program runs the full sequence in the zkVM with arbitrary precision. The on-chain verifier confirms it without re-executing.</p>
-      <p><sub>Rust · RISC Zero zkVM · Solidity · Foundry · Alloy</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sasha-computer/2026/tree/main/argus">Argus</a></h3>
-      <p>Debug tool for Boundless proof requests. Fetches a request from the BoundlessMarket contract on Base, downloads the guest program ELF (supports IPFS), and runs it locally in the RISC Zero zkVM. Reports cycles, journal output, and errors.</p>
-      <p><sub>Rust · RISC Zero · Nix</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sasha-computer/hurricane-money">Hurricane Money</a></h3>
@@ -58,40 +79,6 @@
   </tr>
 </table>
 
-### AI & Tooling
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sasha-computer/2026/tree/main/gandalf">Gandalf</a></h3>
-      <p>Personal AI assistant on Discord and WhatsApp. Reworked from NanoClaw with durable memory (QMD search), per-group message queues with SQLite state, native subprocess execution, and graceful shutdown.</p>
-      <p><sub>TypeScript · Bun · SQLite · Claude API</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sasha-computer/2026/tree/main/pdfcards">PDFCards</a></h3>
-      <p>Local PDF reader with highlighting and spaced repetition flashcards. Highlight text, turn highlights into flashcards, review them with SRS. Built after watching Dwarkesh Patel and Andy Matuschak talk about studying.</p>
-      <p><sub>Bun · TypeScript · pdf.js</sub></p>
-    </td>
-  </tr>
-</table>
-
-### Web & Interactive
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sasha-computer/2025/tree/main/hypergrid">Hypergrid</a></h3>
-      <p>Interactive personal site concept. Roll a 3D cube across an 8x8 grid with arrow keys. Landing on highlighted tiles reveals content panels. Pivot-point roll animations with eased quaternion interpolation and per-face materials.</p>
-      <p><sub>SvelteKit · Three.js · TypeScript</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sasha-computer/2025/tree/main/nn">Neural Nets from Scratch</a></h3>
-      <p>Working through Karpathy's Zero to Hero series. Built a custom autograd engine with backpropagation (addition, multiplication, power, tanh), then a multi-layer perceptron. Also tried tinygrad for GPU tensor ops on Apple Metal.</p>
-      <p><sub>Python · NumPy · tinygrad</sub></p>
-    </td>
-  </tr>
-</table>
-
 ## More Projects
 
 - [readwise-triage](https://github.com/sasha-computer/readwise-triage) - Swipe through your Readwise Reader inbox like Tinder. SQLite + AI summaries.
@@ -107,11 +94,6 @@
 - [arbitrum-nft-warranties](https://github.com/sasha-computer/2022/tree/main/arbitrum-nft-warranties) - NFT-based product warranties on Arbitrum. Immutable and transferable.
 - [escrow](https://github.com/sasha-computer/2022/tree/main/escrow) - Carbon credit escrow on Algorand. Atomic swap between tokens and payment.
 
-## Contributed to
-
-<a href="https://github.com/cjpais/Handy/pull/765"><img src="./contrib-handy.svg" width="326" /></a> <a href="https://github.com/jlia0/tinyclaw/pull/10"><img src="./contrib-tinyclaw.svg" width="326" /></a>
-<a href="https://github.com/runelite/plugin-hub/pull/10536"><img src="./contrib-runelite.svg" width="326" /></a>
-
 ## Year Archives
 
 Everything that isn't its own repo lives in a year monorepo.
@@ -122,5 +104,3 @@ Everything that isn't its own repo lives in a year monorepo.
 
 [![X](https://img.shields.io/badge/-@sasha--computer-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sasha-computer)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sasha-computer)
-
-<img src="./github-stats-banner.svg" width="100%" />
