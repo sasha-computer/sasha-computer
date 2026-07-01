@@ -10,7 +10,6 @@
 ### Web
 
 - [Hypergrid](https://github.com/sasha-computer/2025/tree/main/hypergrid) - 3D cube you roll across a grid, reveals content on landing. SvelteKit + Three.js.
-- [Neural Nets from Scratch](https://github.com/sasha-computer/2025/tree/main/nn) - Autograd engine and MLP by hand, following Karpathy. Python + tinygrad.
 
 ### Tooling
 
@@ -29,6 +28,7 @@
 
 ### More
 
+- [Neural Nets from Scratch](https://github.com/sasha-computer/2025/tree/main/nn) - Autograd engine and MLP by hand, following Karpathy. Python + tinygrad.
 - [readwise-triage](https://github.com/sasha-computer/readwise-triage) - Tinder for your Readwise inbox. SQLite + AI summaries.
 - [sidebar](https://github.com/sasha-computer/sidebar) - macOS desktop sidebar in a Hammerspoon webview. Svelte 5 + Tailwind.
 - [domain-search](https://github.com/sasha-computer/domain-search) - Search every TLD in the terminal. Async DNS + RDAP.
