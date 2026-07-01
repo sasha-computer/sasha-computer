@@ -8,7 +8,7 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00&style=flat-square&logo=svelte&logoColor=white)
 
-~5 years as a technical generalist in cryptography and developer infrastructure, communicating and organising across teams and communities. Looking for work.
+~5 years as a technical generalist in cryptography and developer infrastructure, communicating and organising across teams and communities.
 
 ## Featured Projects
 
