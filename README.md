@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
-### Projects
+### Some cool projects
 
 - [Hypergrid](https://github.com/sasha-computer/2025/tree/main/hypergrid) - 3D cube you roll across a grid, reveals content on landing. SvelteKit + Three.js.
 - [Gandalf](https://github.com/sasha-computer/2026/tree/main/gandalf) - AI assistant on Discord/WhatsApp with durable memory and per-group queues. TypeScript + Bun.
