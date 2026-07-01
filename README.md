@@ -7,27 +7,15 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
-### Web
+### Projects
 
 - [Hypergrid](https://github.com/sasha-computer/2025/tree/main/hypergrid) - 3D cube you roll across a grid, reveals content on landing. SvelteKit + Three.js.
-
-### Tooling
-
 - [Gandalf](https://github.com/sasha-computer/2026/tree/main/gandalf) - AI assistant on Discord/WhatsApp with durable memory and per-group queues. TypeScript + Bun.
 - [PDFCards](https://github.com/sasha-computer/2026/tree/main/pdfcards) - PDF reader with highlighting and SRS flashcards. Bun + pdf.js.
-
-### ZK & Cryptography
-
 - [In-Browser ZK Verifier](https://github.com/sasha-computer/2025/tree/main/browser-verifier) - RISC Zero verifier compiled to WASM, runs in the browser. [Video walkthrough](https://www.youtube.com/watch?v=aTCPCf8ff-c).
 - [Hurricane Money](https://github.com/sasha-computer/hurricane-money) - Tornado Cash-style mixer on OpenVM. Solidity.
-
-### Blockchain & DeFi
-
 - [BAM! Trust](https://github.com/sasha-computer/2022/tree/main/robotrust) - GRATs as smart contracts on Arbitrum with Chainlink oracles. Solidity + React.
 - [ERC-4337 Account Abstraction](https://github.com/sasha-computer/2022/tree/main/erc4337) - Barebones ERC-4337 with custom wallet, entry point, and bundler. Solidity + Hardhat.
-
-### More
-
 - [Neural Nets from Scratch](https://github.com/sasha-computer/2025/tree/main/nn) - Autograd engine and MLP by hand, following Karpathy. Python + tinygrad.
 - [readwise-triage](https://github.com/sasha-computer/readwise-triage) - Tinder for your Readwise inbox. SQLite + AI summaries.
 - [sidebar](https://github.com/sasha-computer/sidebar) - macOS desktop sidebar in a Hammerspoon webview. Svelte 5 + Tailwind.
